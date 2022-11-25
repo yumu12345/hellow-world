@@ -9,3 +9,6 @@ dst[i]=str[i];
 dst[len]='\0';
 return dst;
 }
+/**
+B21031518史方树
+**/
